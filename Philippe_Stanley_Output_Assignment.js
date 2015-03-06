@@ -1,8 +1,8 @@
 /**
  * Created by stanleyphilippe on 3/5/15.
  */
-var King = StanleyP;
-var animal = lion;
+var IamKing = StanleyP;
+var theanimal = lion;
 var hotrod = bentleycoupe;
 "Assigns variables";
 
@@ -15,8 +15,9 @@ hate = false
 "Assigns the boolean values";
 
 
-
-
+console.log(IamKing);
+console.log(theanimal);
+console.log(hotrod);
 
 
 
