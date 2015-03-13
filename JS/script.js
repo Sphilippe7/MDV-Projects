@@ -10,6 +10,7 @@
 
 // Variables
 
+var x = 2
 var p = "perimeter";
 var thelength;
 var thewidth;
@@ -22,7 +23,7 @@ thewidth = prompt("enter the width");
 
 // outputs
 
-console.log("the" + " " + p + " " + "is" + " " + thelength * thewidth /2 + ".");
+console.log("the" + " " + p + " " + "is" + " " + thelength * thewidth *x + ".");
 
 
 
