@@ -26,6 +26,6 @@ doubleit = prompt("now multiply that by two")
 // outputs
 
 console.log("the" + " " + p + " " + "is" + " " + thelength * thewidth *x + ".");
-
+// a lot of trial and error done here to get a full clear sentence without run ons.
 
 
