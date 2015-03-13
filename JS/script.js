@@ -14,12 +14,14 @@ var x = 2
 var p = "perimeter";
 var thelength;
 var thewidth;
+var doubleit;
+// changed the variables around to be able to do the formula for perimeter
 
 // prompts
 
 thelength = prompt("enter the length");
 thewidth = prompt("enter the width");
-
+doubleit = prompt("now multiply that by two")
 
 // outputs
 
